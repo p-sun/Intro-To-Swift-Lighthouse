@@ -23,8 +23,8 @@ accountBalance // 160.123
 
 // Type Inference
 var anInteger = 33 // This type inferred as an Int. You can Option-Click this variable to check its type.
-var EmmasWalletAmount: Float = 200 // We explicitly set this variable's type to Float
-var KylesWalletAmount = EmmasWalletAmount // This type is inferred as a Float
+var emmasWalletAmount: Float = 200 // We explicitly set this variable's type to Float
+var kylesWalletAmount = emmasWalletAmount // This type is inferred as a Float
 
 // Array
 var airport: [String] = ["plane 0", "plane 1", "plane 2"]
