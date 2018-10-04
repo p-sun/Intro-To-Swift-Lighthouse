@@ -1,6 +1,5 @@
 # Intro-To-Swift-Lighthouse
-My iOS Workshops at Lighthouse Labs
-
+Code samples from my iOS Workshops at Lighthouse Labs. 😄
 
 ## Week 2, Day 2
 Today we covered:
