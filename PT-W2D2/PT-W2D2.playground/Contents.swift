@@ -147,7 +147,7 @@ myAccount.checkBalance() // Still 60!
 
 
 // -------------------------------------
-// Inheritance
+// Inheritance/Subclassing 
 // -------------------------------------
 
 
@@ -169,6 +169,7 @@ class Pig: Animal {
 
 class Dog: Animal {
 	
+	// We can nest classes inside classes, for as many layers as we want!!! 🏦
 	let bankAccount: BankAccount
 	
 	init(name: String) {
