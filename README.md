@@ -2,7 +2,6 @@
 Code samples from my iOS Workshops at Lighthouse Labs. 😄
 
 ## Week 2, Day 2
-Today we covered:
 * Variables (mutable & immutable) 
 * Types (e.g. String, Int, Float, Double, Array, Enum) 
 * Type inference 
