@@ -11,3 +11,9 @@ Today we covered:
 * Class inheritance (Dog class inherits from Animal class) 
 * Attaching functions and variables to classes 
 * Control flow (if/else if/else if/else)
+
+## Week 4, Day 1
+* Threads -- Synchronous vs Asynchronous execution
+* Fetching from the Github API using URLSession and URLSessionTask
+* Lifecycle of a UITableViewController, UITableViewDelegate
+* Reloading a UITableView
