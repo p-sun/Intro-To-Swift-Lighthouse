@@ -16,3 +16,7 @@ Code samples from my iOS Workshops at Lighthouse Labs. 😄
 * Fetching from the Github API using URLSession and URLSessionTask
 * Lifecycle of a UITableViewController, UITableViewDelegate
 * Reloading a UITableView
+
+## Week 5, Day 1
+* Subclassing PFObject
+* Retrieving Data using PFQuery
