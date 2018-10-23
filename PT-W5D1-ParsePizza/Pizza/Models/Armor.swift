@@ -21,13 +21,3 @@ class Armor : PFObject, PFSubclassing {
 		return "Armor"
 	}
 }
-
-
-class Pizza : PFObject, PFSubclassing {
-	@NSManaged var pizzaName: String
-	
-	static func parseClassName() -> String {
-		return "Pizza"
-	}
-}
-
